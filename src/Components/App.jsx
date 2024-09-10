@@ -15,7 +15,7 @@ const App = () => {
     <>
       <button onClick={handleClick}>Click {count}</button>
       <div>
-        <h1 style={{ color: "green" }}>This is a Lazy component Updated second time</h1>
+        <h1 style={{ color: "green" }}>This is a Lazy component Updated second time 10</h1>
       </div>
       {
         count > 5 && (
