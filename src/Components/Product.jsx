@@ -3,7 +3,7 @@ const Product = () => {
     return (
         <div>
             <h1>
-                This is a product another component
+                This is a product another component bchfgdhf
             </h1>
         </div>
     )
